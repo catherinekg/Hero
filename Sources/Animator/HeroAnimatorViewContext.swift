@@ -23,6 +23,7 @@
 import UIKit
 
 internal class HeroAnimatorViewContext {
+  
   weak var animator: HeroAnimator?
   let snapshot: UIView
   let appearing: Bool
